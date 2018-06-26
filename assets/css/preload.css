@@ -17427,7 +17427,7 @@ h6, .title-h6, .project_info-item-style-1 .project_info-item .title, .gem_accord
 }
 @media (max-width:767px){
     .vc_hidden-xs{
-        display:none!important
+        display:block!important
     }
     .vc_el-clearfix-xs{
         clear:both
@@ -17725,7 +17725,7 @@ h6, .title-h6, .project_info-item-style-1 .project_info-item .title, .gem_accord
 }
 @media (min-width:768px){
     .vc_col-sm-1,.vc_col-sm-10,.vc_col-sm-11,.vc_col-sm-12,.vc_col-sm-2,.vc_col-sm-3,.vc_col-sm-4,.vc_col-sm-5,.vc_col-sm-6,.vc_col-sm-7,.vc_col-sm-8,.vc_col-sm-9{
-        float:left
+        float:left;
     }
     .vc_col-sm-12{
         width:100%
