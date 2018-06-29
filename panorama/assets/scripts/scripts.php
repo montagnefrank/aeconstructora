@@ -596,4 +596,9 @@
             gem_fix_fullwidth_position(document.getElementById("vc_row-5a7996666f010"));
         }
     });
+    
+    
+    setInterval(function () {
+        jQuery('.planta4, .planta2, .planta3').css('left','25%');
+    }, 200);
 </script>

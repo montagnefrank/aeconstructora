@@ -21,7 +21,7 @@
                 <div class="gem-divider " style="margin-top: 40px;"></div>
                 <div class="wpb_text_column wpb_content_element ">
                     <div class="wpb_wrapper">
-                        <div class="title-h6" style="text-align: center;"><span class="light" style="color: #ffffff;">Somos una construcotra respaldada por los hechos, echa un vistazo a nuestros proyectos</span></div>
+                        <div class="title-h6" style="text-align: center;"><span class="light" style="color: #ffffff;">Somos una constructora respaldada por los hechos, echa un vistazo a nuestros proyectos</span></div>
                     </div>
                 </div>
                 <div class="clearboth"></div>
@@ -63,16 +63,16 @@
                                                         <div class="gem-divider " style="margin-top: 100px;"></div>
                                                         <div class="wpb_text_column wpb_content_element ">
                                                             <div class="wpb_wrapper">
-                                                                <div class="title-h2" style="margin-bottom: 20px;"><span style="color: #43923f;">Panorama II</span></div>
+                                                                <div class="title-h2" style="margin-bottom: 20px;"><span style="color: #e25467;">La Bonanza</span></div>
                                                             </div>
                                                         </div>
                                                         <div class="clearboth"></div>
                                                         <div class="wpb_text_column wpb_content_element ">
                                                             <div class="wpb_wrapper">
-                                                                <div class="title-h6"><span style="color: #ffffff; font-size: 14px;">Son 15 apartamentos de diferentes metrajes, todos los apartamentos cuentan: 2 parqueaderos, una bodega, balcon, terraza o jardin. <br /><br /> Desde 139.900$</span></div>
+                                                                <div class="title-h6"><span style="color: #ffffff; font-size: 14px;">56 CASAS DESDE 84 M2 HASTA 108 M2 CON: PARQUEADEROS CUBIERTOS, JARDIN O TERRAZA, BODEGA O BASEMAN. CAMBIAR FACHADA DE PROYECTO POR LA VERDE <br /><br /> Desde 69.930$</span></div>
                                                             </div>
                                                         </div>
-                                                        <div class="gem-button-container gem-button-position-left"><a class="gem-button gem-button-size-small gem-button-style-flat gem-button-text-weight-normal" style="border-radius: 3px;background-color: #0179bb;color: #2c2c2c;" onmouseleave="this.style.backgroundColor='#0179bb';this.style.color='#2c2c2c';" onmouseenter="this.style.backgroundColor='#2c2c2c';this.style.color='#0179bb';" href="panorama/" target="_self">Estoy interesado</a></div>
+                                                        <div class="gem-button-container gem-button-position-left"><a class="gem-button gem-button-size-small gem-button-style-flat gem-button-text-weight-normal" style="border-radius: 3px;background-color: #0179bb;color: #2c2c2c;" onmouseleave="this.style.backgroundColor='#0179bb';this.style.color='#2c2c2c';" onmouseenter="this.style.backgroundColor='#2c2c2c';this.style.color='#0179bb';" href="bonanza/" target="_self">Estoy interesado</a></div>
                                                         <div class="clearboth"></div>
                                                         <div class="gem-divider " style="margin-top: 95px;"></div>
                                                     </div>
@@ -107,16 +107,16 @@
                                                         <div class="gem-divider " style="margin-top: 100px;"></div>
                                                         <div class="wpb_text_column wpb_content_element ">
                                                             <div class="wpb_wrapper">
-                                                                <div class="title-h2" style="margin-bottom: 20px;"><span style="color: #e25467;">La Bonanza</span></div>
+                                                                <div class="title-h2" style="margin-bottom: 20px;"><span style="color: #43923f;">Panorama II</span></div>
                                                                 <div style="width: 63px; height: 2px; background: #0179bb; text-indent: 9999px;">1</div>
                                                             </div>
                                                         </div>
                                                         <div class="wpb_text_column wpb_content_element ">
                                                             <div class="wpb_wrapper">
-                                                                <div class="title-h6"><span style="color: #ffffff; font-size: 14px;">56 CASAS DESDE 84 MTRS2 HASTA 108 MTRS2 CON: PARQUEADEROS CUBIERTOS, JARDIN O TERRAZA, BODEGA O BASEMAN. CAMBIAR FACHADA DE PROYECTO POR LA VERDE <br /><br /> Desde 69.990$</span></div>
+                                                                <div class="title-h6"><span style="color: #ffffff; font-size: 14px;">Son 15 apartamentos de diferentes metrajes, todos los apartamentos cuentan: 2 parqueaderos, una bodega, balcon, terraza o jardin. <br /><br /> Desde 139.900$</span></div>
                                                             </div>
                                                         </div>
-                                                        <div class="gem-button-container gem-button-position-left"><a class="gem-button gem-button-size-small gem-button-style-flat gem-button-text-weight-normal" style="border-radius: 3px;background-color: #0179bb;color: #2c2c2c;" onmouseleave="this.style.backgroundColor='#0179bb';this.style.color='#2c2c2c';" onmouseenter="this.style.backgroundColor='#2c2c2c';this.style.color='#0179bb';" href="bonanza/" target="_self">Estoy interesado</a></div>
+                                                        <div class="gem-button-container gem-button-position-left"><a class="gem-button gem-button-size-small gem-button-style-flat gem-button-text-weight-normal" style="border-radius: 3px;background-color: #0179bb;color: #2c2c2c;" onmouseleave="this.style.backgroundColor='#0179bb';this.style.color='#2c2c2c';" onmouseenter="this.style.backgroundColor='#2c2c2c';this.style.color='#0179bb';" href="panorama/" target="_self">Estoy interesado</a></div>
                                                         <div class="clearboth"></div>
                                                         <div class="gem-divider " style="margin-top: 95px;"></div>
                                                     </div>
@@ -161,7 +161,7 @@
                                                         <div class="gem-divider " style="margin-top: 100px;"></div>
                                                         <div class="wpb_text_column wpb_content_element ">
                                                             <div class="wpb_wrapper">
-                                                                <div class="title-h2" style="margin-bottom: 20px;"><span style="color: #44d4dc;">Mitad del Mundo</span></div>
+                                                                <div class="title-h2" style="margin-bottom: 20px;"><span style="color: #44d4dc;"> Conjunto habitacional Mitad del Mundo</span></div>
                                                                 <div style="width: 63px; height: 2px; background: #0179bb; text-indent: 9999px;">1</div>
                                                             </div>
                                                         </div>
@@ -172,7 +172,7 @@
                                                                 <div class="title-h6"><span style="color: #fff; font-size: 14px;">90% ENTREGADO, CONJUNTO CERRADO, CASAs DE DOS PLANTAS CON TRES HABITACIONES, PARQUEADERO,  PATIO O TERRAZA <br /><br /> Desde 54.970$ </span></div>
                                                             </div>
                                                         </div>
-                                                        <div class="gem-button-container gem-button-position-left"><a class="gem-button gem-button-size-small gem-button-style-flat gem-button-text-weight-normal" style="border-radius: 3px;background-color: #0179bb;color: #2c2c2c;" onmouseleave="this.style.backgroundColor='#0179bb';this.style.color='#2c2c2c';" onmouseenter="this.style.backgroundColor='#2c2c2c';this.style.color='#0179bb';" href="mm/" target="_blank"> Estoy interesado </a></div>
+                                                        <div class="gem-button-container gem-button-position-left"><a class="gem-button gem-button-size-small gem-button-style-flat gem-button-text-weight-normal" style="border-radius: 3px;background-color: #0179bb;color: #2c2c2c;" onmouseleave="this.style.backgroundColor='#0179bb';this.style.color='#2c2c2c';" onmouseenter="this.style.backgroundColor='#2c2c2c';this.style.color='#0179bb';" href="mm/" target="_self"> Estoy interesado </a></div>
                                                         <div class="clearboth"></div>
                                                         <div class="gem-divider " style="margin-top: 95px;"></div>
                                                     </div>
@@ -213,7 +213,7 @@
                                                         </div>
                                                         <div class="wpb_text_column wpb_content_element ">
                                                             <div class="wpb_wrapper">
-                                                                <div class="title-h6"><span style="color: #ffffff; font-size: 14px;">suites desde 50mtrs2, a 500 mtrs de la USFQ <br /><br /> las diseñamos a tu gusto</span></div>
+                                                                <div class="title-h6"><span style="color: #ffffff; font-size: 14px;">suites desde 50m2, a 500 metros de la USFQ <br /><br /> las diseñamos a tu gusto</span></div>
                                                             </div>
                                                         </div>
                                                         <div class="gem-button-container gem-button-position-left"><a class="gem-button gem-button-size-small gem-button-style-flat gem-button-text-weight-normal" style="border-radius: 3px;background-color: #0179bb;color: #2c2c2c;" onmouseleave="this.style.backgroundColor='#0179bb';this.style.color='#2c2c2c';" onmouseenter="this.style.backgroundColor='#2c2c2c';this.style.color='#0179bb';" href="#vc_row-5a7996667d1cc" target="_self">Reservar</a></div>

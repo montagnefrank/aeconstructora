@@ -597,8 +597,8 @@
         }
     });
     
-    setTimeout(function () {
+    setInterval(function () {
         jQuery('#plantaIMG, #plantaIMG2  ').css('left','25%');
         jQuery('#plantaIMG, #plantaIMG2  ').css('left','25%');
-    }, 2000);
+    }, 200);
 </script>

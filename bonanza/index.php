@@ -985,12 +985,12 @@ switch ($r) {
                                                             </div>
                                                             <div class="wpb_text_column wpb_content_element ">
                                                                 <div class="wpb_wrapper">
-                                                                    <div class="title-h1"><span style="color: #fbc300;">099 462 6610</span></div>
+                                                                    <div class="title-h1"><span style="color: #0087fb;">099 462 6610</span></div>
                                                                 </div>
                                                             </div>
                                                             <div class="wpb_text_column wpb_content_element  vc_custom_1464014256658">
                                                                 <div class="wpb_wrapper">
-                                                                    <div class="title-h6" style="font-size: 14px;">&Aacute;ngel Rojas y Juan Le&oacute;n Mera.<br /> Quito, Ecuador<br /> <span style="color: #fbc300;">ventas@aeconstructora.com</span></div>
+                                                                    <div class="title-h6" style="font-size: 14px;">&Aacute;ngel Rojas y Juan Le&oacute;n Mera.<br /> Quito, Ecuador<br /> <span style="color: #0087fb; text-transform: lowercase;">ventas@aeconstructora.com</span></div>
                                                                 </div>
                                                             </div>
                                                         </div>

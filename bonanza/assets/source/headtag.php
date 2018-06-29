@@ -274,7 +274,7 @@
     
     .vc_custom_1464002689027 {
         margin-bottom: 0px !important;
-        background-image: url(http://thegem2.codexthemes.netdna-cdn.com/thegem/wp-content/uploads/2016/05/construction_yellow_background.png) !important;
+        background-image: url(../assets/img/construction_yellow_background.png) !important;
         background-position: center !important;
         background-repeat: no-repeat !important;
         background-size: cover !important

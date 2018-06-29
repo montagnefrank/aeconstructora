@@ -74,7 +74,7 @@
         content: '';
         width: 50px;
         height: 2px;
-        background: #00f4d4;
+        background: #0087fb;
         position: absolute;
         bottom: 10px;
         left: 50%;
@@ -86,7 +86,7 @@
     }
 
     body.wpb-js-composer .vc_tta.vc_tta-color-thegem.vc_tta-style-simple_solid .vc_tta-controls-icon::before {
-        color: #00f4d4
+        color: #0087fb
     }
 
     .gem-prev:after,
@@ -147,7 +147,7 @@
 
     .contactform .wpcf7-form input[type='submit'] {
         height: 40px;
-        background: #00f4d4;
+        background: #0087fb;
         color: #2c2c2c;
         margin-top: 0;
         padding: 5px 40px;
@@ -156,7 +156,7 @@
 
     .contactform .wpcf7-form input[type='submit']:hover {
         background: #2c2c2c;
-        color: #00f4d4
+        color: #0087fb
     }
 
     .contactform .wpcf7-form input.wpcf7-text,
@@ -205,7 +205,7 @@
     }
 
     #colophon .widget a:hover {
-        color: #00f4d4
+        color: #0087fb
     }
 
     #colophon .textwidget li {
@@ -213,7 +213,7 @@
     }
 
     #colophon .textwidget li:before {
-        background: #00f4d4
+        background: #0087fb
     }
 
     #colophon .textwidget li:hover:before {
@@ -221,7 +221,7 @@
     }
 
     #colophon .widget-title:after {
-        color: #00f4d4
+        color: #0087fb
     }
 
     body #colophon .widget .tagcloud a {
@@ -233,7 +233,7 @@
     }
 
     #colophon #mc4wp_submit:hover {
-        background: #00f4d4;
+        background: #0087fb;
         color: #2c2c2c
     }
 
@@ -259,7 +259,7 @@
 
     #footer-navigation li a:hover,
     .footer-site-info a {
-        color: #00f4d4
+        color: #0087fb
     }
 
     .footer-site-info a:hover {
@@ -497,7 +497,7 @@
     }
 
     .vc_custom_1464176408570 {
-        background-image: url(/assets/img/pano2.jpg) !important;
+        background-image: url(/assets/img/7.jpg) !important;
         background-position: center !important;
         background-repeat: no-repeat !important;
         background-size: cover !important
@@ -510,7 +510,7 @@
     }
 
     .vc_custom_1464179777055 {
-        background-image: url(/assets/img/7.jpg) !important;
+        background-image: url(/assets/img/pano2.jpg) !important;
         background-position: center !important;
         background-repeat: no-repeat !important;
         background-size: cover !important

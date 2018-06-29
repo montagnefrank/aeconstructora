@@ -19,8 +19,8 @@
                 <div class="clearboth"></div>
                 <div class="gem-divider " style="margin-top: 150px;"></div>
                 <div class="vc_row wpb_row vc_inner vc_row-fluid">
-                    <div class="wpb_column vc_column_container vc_col-sm-10 vc_col-sm-offset-1 vc_col-xs-offset-1 vc_col-xs-10">
-                        <div class="vc_column-inner ">
+                    <div class="wpb_column vc_column_container vc_col-sm-10 vc_col-sm-offset-1 vc_col-xs-offset-1 vc_col-xs-10" style="height: 300px;">
+                        <div class="vc_column-inner " style="height: 300px;">
                             <div class="wpb_wrapper">
                                 <div class="wpb_text_column wpb_content_element ">
                                     <div class="wpb_wrapper">
@@ -30,7 +30,7 @@
                                 </div>
                                 <div class="wpb_text_column wpb_content_element  vc_custom_1464000710801">
                                     <div class="wpb_wrapper">
-                                        <p><span style="color: #ffffff;">Servir a los quite&ntilde;os<br /> con las mejores soluciones de vivienda<br /> que traiga a sus familias seguridad, estabilidad y desarrollo personal.</span></p>
+                                        <p><span style="color: #ffffff;">Servir a los quite&ntilde;os<br /><br /> con las mejores soluciones de vivienda<br /> que traiga a sus familias seguridad, estabilidad y desarrollo personal.</span></p>
                                     </div>
                                 </div>
                             </div>
@@ -48,8 +48,8 @@
                 <div class="clearboth"></div>
                 <div class="gem-divider " style="margin-top: 150px;"></div>
                 <div class="vc_row wpb_row vc_inner vc_row-fluid">
-                    <div class="wpb_column vc_column_container vc_col-sm-10 vc_col-sm-offset-1 vc_col-xs-offset-1 vc_col-xs-10">
-                        <div class="vc_column-inner ">
+                    <div class="wpb_column vc_column_container vc_col-sm-10 vc_col-sm-offset-1 vc_col-xs-offset-1 vc_col-xs-10" style="height: 300px;">
+                        <div class="vc_column-inner " style="height: 300px;">
                             <div class="wpb_wrapper">
                                 <div class="wpb_text_column wpb_content_element ">
                                     <div class="wpb_wrapper">
@@ -77,8 +77,8 @@
                 <div class="clearboth"></div>
                 <div class="gem-divider " style="margin-top: 150px;"></div>
                 <div class="vc_row wpb_row vc_inner vc_row-fluid">
-                    <div class="wpb_column vc_column_container vc_col-sm-10 vc_col-sm-offset-1 vc_col-xs-offset-1 vc_col-xs-10">
-                        <div class="vc_column-inner ">
+                    <div class="wpb_column vc_column_container vc_col-sm-10 vc_col-sm-offset-1 vc_col-xs-offset-1 vc_col-xs-10" style="height: 300px;">
+                        <div class="vc_column-inner " style="height: 300px;">
                             <div class="wpb_wrapper">
                                 <div class="wpb_text_column wpb_content_element ">
                                     <div class="wpb_wrapper">
